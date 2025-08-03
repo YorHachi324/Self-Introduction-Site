@@ -1,0 +1,11 @@
+img {
+    width: 320px;
+    height: 280px;
+}
+body {
+    background-color: black;
+}
+p {
+    color: white;
+    font-size: 25px;
+}

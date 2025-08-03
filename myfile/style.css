@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+p {
+    color: rgb(0, 0, 0);
+    font-size:20px;
+}
+.gomi {
+    width:100px;
+    height:100px;
+}
+.fire {
+    width:100px;
+    height:100px;
+}

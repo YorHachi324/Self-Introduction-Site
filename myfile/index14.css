@@ -1,0 +1,37 @@
+
+h1 {
+    padding: 5px;
+}
+h1:hover {
+    opacity: 0.5;
+}
+h2 {
+    width: 80px;
+}
+.content p {
+    width: 350px;
+}
+:nth-child(6) {
+    background-color: orange;
+}
+h2:nth-of-type(4) {
+    color: white;
+    background-color: black;
+}
+p::first-letter {
+    color: red;
+}
+h2::before {
+    content: "★";
+    color: orange;
+}
+.content p{
+        width: 350px;
+    text-align: center;
+}
+.summer:hover {
+    color:red
+}
+.hiroshima:visited {
+    color:green
+}
